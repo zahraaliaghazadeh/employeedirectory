@@ -70,7 +70,30 @@ To-do list:
 *  UI desing can be improved.
 
 
-## Some React documentaions
+
+
+## Status
+Project is:  _finished_
+
+
+## License
+
+MIT license 
+Copyright © 2020 Zahra Ali Aghazadeh
+
+
+
+
+## Contact
+Email: zahraaliaghazadeh@gmail.com
+
+LinkedIn: [Zahra Ali Aghazadeh](https://www.linkedin.com/in/zahraaliaghazadeh)
+
+feel free to contact me!
+
+
+
+# Some React documentaions
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -158,25 +181,4 @@ react docs on controlled vs uncontrolled form inputs:](https://reactjs.org/docs/
 
 [react docs on the concept of "lifting" state:](https://reactjs.org/docs/lifting-state-up.html)
 
-
-
-
-## Status
-Project is:  _finished_
-
-
-## License
-
-MIT license 
-Copyright © 2020 Zahra Ali Aghazadeh
-
-
-
-
-## Contact
-Email: zahraaliaghazadeh@gmail.com
-
-LinkedIn: [Zahra Ali Aghazadeh](https://www.linkedin.com/in/zahraaliaghazadeh)
-
-feel free to contact me!
 
