@@ -1,4 +1,4 @@
-# [Employee Directory]()
+# [Employee Directory](https://employeedirectoryyalda.herokuapp.com/)
 
 ## An application built with React , to display employee information
 
@@ -46,7 +46,7 @@ In order to install, first download the files. Then you would open terminal and 
 ![sample use](./public/assets/images/gif1.gif)
 
 
-To use this application, you can [click here]()
+To use this application, you can [click here](https://employeedirectoryyalda.herokuapp.com/)
 
 
 ## Credits
@@ -66,7 +66,8 @@ Built with [Bootstrap](https://getbootstrap.com/)
 
 To-do list:
 
-*  need to sort the data received.
+
+*  Need to fix the deploy problem with heroku.
 *  UI desing can be improved.
 
 
