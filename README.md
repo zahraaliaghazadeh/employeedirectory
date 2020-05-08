@@ -92,8 +92,11 @@ LinkedIn: [Zahra Ali Aghazadeh](https://www.linkedin.com/in/zahraaliaghazadeh)
 feel free to contact me!
 
 
+<hr style="border:2px solid gray"> </hr>
+
 
 # Some React documentaions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -163,22 +166,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-My resources:
-[randomuserAPI](https://randomuser.me/)
-
-my api key is T50G-KYGM-7C2E-BG7T
-
-[API to generate random users for hw assignment:](https://randomuser.me/)
-[react docs on forms:](https://reactjs.org/docs/forms.html)
-[medium article on lifecycle methods:](https://engineering.musefind.com/)[react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
-react docs on state and the component lifecycle:](https://reactjs.org/docs/state-and-lifecycle.html)
-[presentational vs container components( aka dumb vs smart components):](https://medium.com/@dan_abramov/)
-
-
-[smart-and-dumb-components-7ca2f9a7c7d0
-react docs on controlled vs uncontrolled form inputs:](https://reactjs.org/docs/uncontrolled-components.html)
-
-[react docs on the concept of "lifting" state:](https://reactjs.org/docs/lifting-state-up.html)
 
 
